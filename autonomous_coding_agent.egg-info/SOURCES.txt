@@ -1,0 +1,11 @@
+README.md
+pyproject.toml
+autocode/__init__.py
+autocode/cli.py
+autocode/core.py
+autonomous_coding_agent.egg-info/PKG-INFO
+autonomous_coding_agent.egg-info/SOURCES.txt
+autonomous_coding_agent.egg-info/dependency_links.txt
+autonomous_coding_agent.egg-info/entry_points.txt
+autonomous_coding_agent.egg-info/requires.txt
+autonomous_coding_agent.egg-info/top_level.txt
